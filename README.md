@@ -1,6 +1,6 @@
 # K Mismatch With Dynamic Programming Include Indels
 
-Link Project: https://github.com/DimaSpektor/K-Mismatch-With-Dynamic-Programming-Include-Indels
+Link Project: https://github.com/Developer122436/K-Mismatch-With-Dynamic-Programming-Include-Indels
 
 The final project of the degree is a research aimed at finding a quick way to search for a word in the text. Me and my partner developed a search algorithm based on K-Mismatch with Dynamic Programming that includes insertions and deletions (Indels) of letters in a word. The project was implemented in Java.
 
