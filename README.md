@@ -1,6 +1,6 @@
 # Final Project
 
-The final project of the degree is a research aimed at finding a quick way to search for a word in the text. Me and colleague developed a search algorithm based on K-Mismatch with Dynamic Programming that includes insertions and deletions of letters in a word. The project was implemented in Java through eclipse.
+The final project of the degree is a research aimed at finding a quick way to search for a word in the text. Me and colleague developed a search algorithm based on K-Mismatch with Dynamic Programming that includes insertions and deletions of letters in a word. The project was implemented in Java and JavaFx through eclipse.
 
 * The project works only on TXT Files.
 
